@@ -1,0 +1,102 @@
+Name
+1. Gender
+	•	Male
+	•	Female
+2. Sex_orientation
+	•	Heterosexual
+	•	Homosexual
+	•	Bi-sexual
+3. Campus_College
+4. Age
+5. Age_difference_with_partner
+	•	Older_than_me
+	•	Similar_age
+	•	Younger_than_me
+	•	Do_not_care
+6. Grade
+	•	Freshman
+	•	Sophomore
+	•	Junior
+	•	Senior
+7. Height
+8. Height_difference_with_partner
+	•	Higher_than_me
+	•	Shorter_than_me
+	•	Do_not_care
+9. Constellation
+	•	Aquarius
+	•	Pisces
+	•	Aries
+	•	Tanurus
+	•	Gemini
+	•	Cancer
+	•	Leo
+	•	Virgo
+	•	Libra
+	•	Scorpio
+	•	Sagittarius
+	•	Capricorn
+10. The_aspect_you_are_looking_for_from_your_partner
+	•	Personality
+	•	Capability
+	•	Appearance
+	•	Hobbies
+	•	Value
+11. Do_you_prefer_dog_or_cat
+	•	Dog
+	•	Cat
+12. Are_you_an_extrovert_or_introvert
+	•	Extrovert
+	•	Introvert
+13. How_many_romantic_relationship_you_want_to_have
+	•	1-2
+	•	3-5
+	•	>= 6
+14. Game_or_partner
+	•	Game
+	•	Partner
+15. Favorite_season
+	•	Spring
+	•	Summer
+	•	Fall
+	•	Winter
+16. Favorite_weather
+	•	Sunny
+	•	Cloudy
+	•	Rainy
+	•	Foggy
+17. Favorite_color
+	•	Red
+	•	Yellow
+	•	Blue
+	•	Green
+	•	Purple
+	•	Orange
+	•	Pink
+	•	Black
+	•	White
+18. Favorite_food
+	•	Chinese Food
+	•	Japanese Food
+	•	American Food
+	•	Italian Food
+	•	Thai Food
+	•	Korea Food
+	•	Mexican Food
+19. Person_you_love_or_love_you
+	•	Person I love
+	•	Person who loves me
+20. Attitude_toward_social_events
+	•	I am very excited toward it
+	•	Okay
+	•	I do not like social events
+21. Preferred_attitude_from_your_partner
+	•	I am very excited toward it
+	•	Okay
+	•	I do not like social events
+22. What_type_of_person_you_are_in_the_relationship
+	•	More active
+	•	More passive
+23.  Preferred_type_of_person_of_your_partner_in_the_relationship
+	•	More active
+	•	More passive
